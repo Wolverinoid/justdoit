@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"gopkg.in/fsnotify.v1"
+	"gopkg.in/fsnotify/fsnotify.v1"
 
 	"github.com/go-playground/log"
 	"github.com/go-playground/log/handlers/console"
